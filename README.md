@@ -98,8 +98,3 @@ Develop a mobile application for real-time plant identification
 Expand dataset with more plant species
 
 Improve accuracy with data augmentation and hyperparameter tuning
-
-
-📜 License
-
-This project is intended for educational and academic purposes.
